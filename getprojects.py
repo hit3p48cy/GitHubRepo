@@ -3,7 +3,7 @@ import requests
 
 
 # Replace with your GitHub Personal Access Token
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = "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"
 
 # Replace with your repository details
 REPO_OWNER = "hit3p48cy"  # This could be a user or organization
